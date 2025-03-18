@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-Using-Machine-Learning-with-Cosine-Similarity-and-Streamlit-GUI
+The Movie Recommendation System uses Machine Learning with Cosine Similarity to suggest movies based on user preferences. It features an interactive Streamlit GUI, allowing users to select a movie and view 32 similar recommendations with dynamically fetched posters from the TMDb API, creating a seamless and engaging experience.
