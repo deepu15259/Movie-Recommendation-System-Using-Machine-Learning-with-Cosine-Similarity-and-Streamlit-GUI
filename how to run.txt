@@ -1,0 +1,8 @@
+1)run Main.ipynb in jupyter notebook - this will generate movies_list.pkl and similarity.pkl files
+
+2)open command prompt change path to project folder directory
+
+3)install required libraries if error comes
+
+4)run below command
+streamlit run app.py
